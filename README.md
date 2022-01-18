@@ -7,3 +7,5 @@ Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) i
 # Features of Java
 ![image](https://user-images.githubusercontent.com/72214531/149877335-f07f26bb-c5f2-4240-b403-aedef8b8fb51.png)
 
+# Execution Process of Java Program in Detail
+![image](https://user-images.githubusercontent.com/72214531/149877809-d3f1d908-5e3e-4d98-9c53-d09bfc8c7702.png)
