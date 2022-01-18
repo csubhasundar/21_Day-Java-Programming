@@ -18,7 +18,8 @@ Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) i
 
 ## void is the return type of the method. It means it doesn't return any value.
 
-## ain represents the starting point of the program.
+## main represents the starting point of the program.
 
 ## String[] args or String args[] is used for command line argument. We will discuss it in coming section.
-System.out.println() is used to print statement. Here, System is a class, out is an object of the PrintStream class, println() is a method of the PrintStream class. We will discuss the internal working of System.out.println() statement in the coming section
+
+## System.out.println() is used to print statement. Here, System is a class, out is an object of the PrintStream class, println() is a method of the PrintStream class. We will discuss the internal working of System.out.println() statement in the coming section
